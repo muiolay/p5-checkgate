@@ -1,1 +1,1 @@
-control probe B
+control probe C
